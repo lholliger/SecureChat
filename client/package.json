@@ -1,0 +1,11 @@
+{
+  "name": "securenode",
+  "version": "0.0.1",
+  "description": "Super Secure Chat",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DatOneLefty",
+  "license": "MIT"
+}
