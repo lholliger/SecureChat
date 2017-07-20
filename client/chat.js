@@ -1,8 +1,8 @@
 
 var allow = false;
 var io = require('socket.io-client'),
-socket = io.connect('https://sc.lefty.cf:44443', {
-    port: 44443
+socket = io.connect('https://sc.lefty.cf', {
+    port: 443
 });
 
 socket.on("a-join", function(msg) {
